@@ -1,7 +1,7 @@
 import logo from "./logo.svg";
-import backend from "./backend.png";
+import bmw from "./bmw.png";
 import creator from "./creator.png";
-import mobile from "./mobile.png";
+import editor from "./editor.png";
 import web from "./web.png";
 import github from "./github.png";
 import menu from "./menu.svg";
@@ -23,18 +23,20 @@ import threejs from "./tech/threejs.svg";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
-import tesla from "./company/tesla.png";
+import ibs from "./company/ibs.png";
 
-import carrent from "./carrent.png";
+import foodzilla from "./foodzilla.png";
 import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import relaxan from "./relaxan.png";
+import usmon from './usmon.png'
+import sharof from './sharof.png'
+import ilhom from './ilhom.png'
 
 export {
   logo,
-  backend,
+  bmw,
   creator,
-  mobile,
+  editor,
   web,
   github,
   menu,
@@ -54,9 +56,11 @@ export {
   threejs,
   meta,
   shopify,
-  starbucks,
-  tesla,
-  carrent,
+  ibs,
+  foodzilla,
   jobit,
-  tripguide,
+  relaxan,
+  usmon,
+  sharof,
+  ilhom
 };
